@@ -23,3 +23,6 @@ App de gestão comercial com leitura de código de barras (em desenvolvimento).
 
 ## Banco de dados
 - Usa Supabase — URL não identificada no .env (verificar constants ou src/)
+
+## Credenciais
+Não usa variáveis de ambiente — sem arquivo .env.
